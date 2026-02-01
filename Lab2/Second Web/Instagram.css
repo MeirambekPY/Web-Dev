@@ -1,0 +1,132 @@
+.Instagram {
+    width: 200px;
+    margin-left: 270px;
+    margin-top: 290px;
+    float: left;
+}
+.Text {
+    width: 672px;
+    height: 100px;
+    margin-left: 120px;
+    margin-top: 110px;
+    float: left;
+    position: absolute;
+}
+h2 {
+    font-size: 2.9vw;
+    font-weight: lighter;
+    text-align: center;
+}
+img {
+    width: 390px;
+    margin: -28px -28px -28px -28px;
+}
+.Login {
+    width: 650px;
+    height: 690px;
+    background-color: #fff;
+    float: right;
+}
+form {
+    text-align: center;
+}
+input {
+    width: 520px;
+    height: 32px;
+    font-size: 17px;
+    padding: 14px 16px;
+    border-radius: 15px;
+    background: #fff;
+    border: 1px solid #ddefe2;
+}
+.inp1 {
+    margin-top: 135px;
+}
+.inp2 {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+button {
+    width: 550px;
+    line-height: 40px;
+    border-radius: 30px;
+    background-color: #0866ff;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #fff;
+    border: 1px solid #ddefe2;
+}
+.Into {
+    font-weight: 500;
+    font-size: 19px;
+    margin-top: 90px;
+    margin-left: 920px;
+    float: right;
+    position: absolute;
+}
+a {
+    font-weight: bold;
+}
+.Password {
+    margin-top: 365px;
+    margin-left: 1137px;
+    float: right;
+    position: absolute;
+}
+.tPassword {
+    font-size: 18px;
+    font-weight: 500;
+}
+.Account {
+    margin-top: 500px;
+    margin-left: 930px;
+    width: 550px;
+    height: 45px;
+    background-color: white;
+    border-radius: 30px;
+    border: 1px solid blue;
+    position: absolute;
+    float: right;
+}
+.bAccount {
+    margin-top: 13px;
+    margin-left: 200px;
+    font-size: 17px;
+    font-weight: lighter;
+    color: blue;
+    position: absolute;
+}
+.Line {
+    width: 0px;
+    height: 700px;
+    margin-left: 870px;
+    border: 1px solid gray;
+    position: absolute;
+}
+.Facebook {
+    margin-top: 440px;
+    margin-left: 930px;
+    width: 550px;
+    height: 45px;
+    background-color: white;
+    border-radius: 30px;
+    border: 1px solid gray;
+    position: absolute;
+    float: right;
+}
+.bFacebook {
+    margin-top: 13px;
+    margin-left: 210px;
+    font-size: 17px;
+    font-weight: lighter;
+    position: absolute;
+}
+.Meta {
+    font-weight: 500;
+    font-size: 19px;
+    margin-top: 575px;
+    margin-left: 1195px;
+    float: right;
+    position: absolute;
+}
