@@ -1,0 +1,109 @@
+.Facebook {
+    width: 200px;
+    margin-left: 270px;
+    margin-top: 200px;
+    float: left;
+}
+.Text {
+    width: 430px;
+    height: 100px;
+    margin-left: 270px;
+    margin-top: 250px;
+    float: left;
+    position: absolute;
+}
+h2 {
+    font-size: 30px;
+    font-weight: 500;
+}
+img {
+    width: 330px;
+    margin: -28px -28px -28px -28px;
+}
+.Login {
+    width: 396px;
+    height: 350px;
+    margin-top: 130px;
+    margin-right: 270px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px #0000001a,0 8px 16px #0000001a;
+    background-color: #fff;
+    float: right;
+}
+form {
+    text-align: center;
+}
+input {
+    width: 330px;
+    font-size: 17px;
+    padding: 14px 16px;
+    border-radius: 6px;
+    background: #fff;
+    border: 1px solid #ddefe2;
+}
+.inp1 {
+    margin-top: 15px;
+}
+.inp2 {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+body {
+    background-color: #f2f4f7;
+}
+button {
+    width: 365px;
+    line-height: 48px;
+    border-radius: 8px;
+    background-color: #0866ff;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    border: 1px solid #ddefe2;
+    color: #fff;
+}
+.Page {
+    font-weight: 400;
+    margin-top: 510px;
+    margin-left: 900px;
+    float: right;
+    position: absolute;
+}
+.Line {
+    border-bottom: 1px solid #DADDE1;
+    width: 365px;
+    margin-top: 45px;
+    margin-left: 15px;
+}
+a {
+    font-weight: bold;
+}
+.Password {
+    margin-top: 335px;
+    margin-left: 995px;
+    float: right;
+    position: absolute;
+}
+.tPassword {
+    color: #0866ff;
+    font-size: 16px;
+    font-weight: 500;
+}
+.Account {
+    margin-top: 400px;
+    margin-left: 955px;
+    width: 200px;
+    height: 50px;
+    background-color: #42b72a;
+    border-radius: 6px;
+    position: absolute;
+    float: right;
+}
+.bAccount {
+    margin-top: 15px;
+    margin-left: 19px;
+    font-size: 19px;
+    font-weight: bold;
+    color: #fff;
+    position: absolute;
+}
