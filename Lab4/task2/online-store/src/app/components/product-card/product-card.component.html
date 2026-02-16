@@ -1,0 +1,18 @@
+<div class="card">
+
+  <img [src]="product.image" [alt]="" />
+
+  <h3>{{ product.name }}</h3>
+
+  <p>{{ product.description }}</p>
+
+  <p class="price">{{ product.price | number }} ₸</p>
+
+  <div class="rating">
+    <span *ngFor="let _ of getStars(product.rating)">⭐</span>
+    <span>({{ product.rating }})</span>
+  </div>
+
+  <a [href]="product.link" target="_blank">View on Kaspi</a>
+
+</div>
